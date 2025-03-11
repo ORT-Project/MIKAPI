@@ -1,6 +1,0 @@
-@MikGameApi_HostAddress = http://localhost:5111
-
-GET {{MikGameApi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
